@@ -1,6 +1,8 @@
 ## Floats
 
-Recreate this layout in index.html and style.css.
+1. Fork this repository.
+1. Clone your fork.
+1. Recreate this layout from the image below by editing style.css:
 
 ![](img/layout.png)
 
