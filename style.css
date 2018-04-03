@@ -1,0 +1,22 @@
+header{
+  background-color: lightgrey;
+  padding: 30px;
+}
+
+div{
+  background-color: blue;
+  width: 66%;
+  float: left;
+}
+
+nav{
+  background-color: yellow;
+  width: 33%;
+  float: right;
+}
+
+footer{
+  background-color: darkgrey;
+  clear: both;
+  padding: 10px;
+}
